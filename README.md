@@ -18,3 +18,7 @@ This is a simple web application that converts decimal numbers to binary numbers
 - JavaScript
 - HTML
 - CSS
+
+## Credits
+
+This project was created as part of the FreeCodeCamp curriculum.
